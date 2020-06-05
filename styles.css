@@ -12,6 +12,7 @@ div {
 a {
   color: #F2B749;
   margin: 10px 20px;
+  text-decoration: none;
 }
 
 h1 {
@@ -43,6 +44,10 @@ hr{
 
 p {
   line-height: 2;
+}
+
+.christy {
+  margin: 0;
 }
 
 .header-desc {
